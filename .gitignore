@@ -1,0 +1,13 @@
+# macOS / 외장 드라이브 메타파일
+.DS_Store
+._*
+# Office 임시 파일
+~$*
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# 환경·비밀
+.env
